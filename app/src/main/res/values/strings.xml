@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoundedService</string>
+    <string name="get_data">Get Data</string>
+    <string name="stop_n_service">Stop Service</string>
+</resources>
